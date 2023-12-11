@@ -1,0 +1,2 @@
+Standard available pictures for Play, Pause, forward, and back by Qt
+Sample Audio - univ1314MerryChristmas.wav is available On Unity Asset Store by unity-chan! as Unity-Chan! Model and is accessable through the Standard Unity Asset Store EULA
